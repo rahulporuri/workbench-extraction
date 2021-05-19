@@ -14,7 +14,7 @@ if __name__ == "__main__":
     __version__ = "0.0.0"
 
     setup(
-        name="enworkspaces",
+        name="enworkbench",
         version=__version__,
         license="BSD",
         packages=find_packages(),
